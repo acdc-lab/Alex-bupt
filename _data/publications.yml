@@ -1,0 +1,56 @@
+main:
+
+  - title: "Beyond Similarity: Popularity-aware Cross-subtopic Embedding and Graph Augmentation for Multimodal Recommendation"
+    authors: <strong>Zhenye Yang</strong>, Jinpeng Chen, Huan Li, Tao Wang, Senzhang Wang and Peng Wang
+    conference_short: WWW
+    conference: The Web Conference <strong>(WWW)</strong>, 2026.
+#    pdf: https://arxiv.org/pdf/2306.00988.pdf
+#    code: https://github.com/MrGiovanni/ContinualLearning
+#    bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/PaCE.png
+    notes: Submitted
+
+  - title: "AgentTailor: Decomposing Long-Tail Recommendation into Interpretable Multi-Agent Collaborative Reasoning"
+    authors: Jinpeng Chen, <strong>Zhenye Yang</strong>, Huan Li, Kaimin Wei, Senzhang Wang, Hongbo Gao, Tong Lin and Guomin Xiong
+    conference_short: WWW
+    conference: The Web Conference <strong>(WWW)</strong>, 2026.
+#    pdf: https://arxiv.org/pdf/2306.00988.pdf
+#    code: https://github.com/MrGiovanni/ContinualLearning
+#    bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/AgentTailor.png
+    notes: Submitted
+
+  - title: "STEP: Stepwise Curriculum Learning for Context-Knowledge Fusion in Conversational Recommendation"
+    authors: <strong>Zhenye Yang</strong>, Jinpeng Chen, Huan Li, Xiongnan Jin, Xuanyang Li, Junwei Zhang, Hongbo Gao, Kaimin Wei, Senzhang Wang
+    conference_short: CIKM
+    conference: ACM International Conference on Information and Knowledge Management <strong>(CIKM)</strong>, 2025.
+#    pdf: https://arxiv.org/pdf/2002.10211.pdf
+#    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+#    page: https://class-il.mpi-inf.mpg.de/mnemonics/
+#    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    notes: Oral Presentation
+    image: ./assets/img/STEP.png
+
+  - title: "Heterogeneous Graph-based Sequential Recommendation with Disentangled Methods"
+    authors: Jinpeng Chen, Huachen Guan, Fan Zhang, <strong>Zhenye Yang</strong>, Jianxiang He, Hongbo Gao, Kaimin Wei
+    conference_short: ICDM
+    conference: IEEE International Conference on Data Mining <strong>(ICDM)</strong>, 2025.
+#    pdf: https://arxiv.org/pdf/2002.10211.pdf
+#    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+#    page: https://class-il.mpi-inf.mpg.de/mnemonics/
+#    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    notes: Oral Presentation
+    image: ./assets/img/DisenRec.png
+
+  - title: "Hierarchical Intent-guided Optimization with Pluggable LLM-Driven Semantics for Session-based Recommendation"
+    authors: Jinpeng Chen, Jianxiang He, Huan Li, Senzhang Wang, Yuan Cao, Kaimin Wei, <strong>Zhenye Yang</strong>, Ye Ji
+    conference_short: SIGIR
+    conference: ACM SIGIR Conference on Research and Development in Information Retrieval <strong>(SIGIR)</strong>, 2025.
+    pdf: https://dl.acm.org/doi/abs/10.1145/3726302.3729994
+    notes: Oral Presentation
+    image: ./assets/img/HIPHOP.png
+
+
+
+
+
