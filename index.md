@@ -24,3 +24,6 @@ with a research field in generative recommendation systems.
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
+
+<link rel="stylesheet" href="{{ '/assets/css/like.css' | relative_url }}">
+<script defer src="{{ '/assets/js/like.js' | relative_url }}"></script>

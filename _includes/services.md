@@ -11,4 +11,5 @@
 
 <ul style="margin:0 0 20px;">
   <li><a href="https://dl.acm.org/journal/ieeecs_tkde"><autocolor>IEEE Transactions on Knowledge and Data Engineering &#40;TKDE&#41;</autocolor></a></li>
+  <li><a href="https://mc03.manuscriptcentral.com/bdma"><autocolor>Big Data Mining and Analytics &#40;BDMA&#41;</autocolor></a></li>
 </ul>

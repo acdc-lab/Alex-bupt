@@ -1,4 +1,12 @@
 main:
+  - title: "DSSNet: Deep Spectral Structure Predictive Network for Urban Traffic Flow Forecasting via Learnable Spectral Decomposition"
+    authors: Tao Wang, <strong>Zhenye Yang</strong> and Jinpeng Chen,
+    conference_short: ICDE
+    conference: The annual IEEE International Conference on Data Engineering <strong>(ICDE)</strong>, 2026.
+#    pdf: https://arxiv.org/pdf/2306.00988.pdf
+#    code: https://github.com/MrGiovanni/ContinualLearning
+    image: ./assets/img/DSSNet.png
+    notes: Submitted(Optimization in progress)
 
   - title: "Beyond Similarity: Popularity-aware Cross-subtopic Embedding and Graph Augmentation for Multimodal Recommendation"
     authors: <strong>Zhenye Yang</strong>, Jinpeng Chen, Huan Li, Tao Wang, Senzhang Wang and Peng Wang
@@ -6,7 +14,6 @@ main:
     conference: The Web Conference <strong>(WWW)</strong>, 2026.
 #    pdf: https://arxiv.org/pdf/2306.00988.pdf
 #    code: https://github.com/MrGiovanni/ContinualLearning
-#    bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/PaCE.png
     notes: Submitted
 
@@ -15,8 +22,6 @@ main:
     conference_short: WWW
     conference: The Web Conference <strong>(WWW)</strong>, 2026.
 #    pdf: https://arxiv.org/pdf/2306.00988.pdf
-#    code: https://github.com/MrGiovanni/ContinualLearning
-#    bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/AgentTailor.png
     notes: Submitted
 
@@ -25,9 +30,6 @@ main:
     conference_short: CIKM
     conference: ACM International Conference on Information and Knowledge Management <strong>(CIKM)</strong>, 2025.
 #    pdf: https://arxiv.org/pdf/2002.10211.pdf
-#    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-#    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-#    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     notes: Oral Presentation
     image: ./assets/img/STEP.png
 
@@ -36,11 +38,16 @@ main:
     conference_short: ICDM
     conference: IEEE International Conference on Data Mining <strong>(ICDM)</strong>, 2025.
 #    pdf: https://arxiv.org/pdf/2002.10211.pdf
-#    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-#    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-#    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     notes: Oral Presentation
     image: ./assets/img/DisenRec.png
+
+  - title: "Enhancing Explainable Sequential Recommendation with Disentangled Representations and Auxiliary Review Explanations"
+    authors: Jinpeng Chen, Huachen Guan, Hongbo Gao, Huan Li, <strong>Zhenye Yang</strong>, Fan Zhang, Kaimin Wei, Feifei Kou, Xindong Wu
+    conference_short: TCSS
+    conference: IEEE Transactions on Computational Social Systems <strong>(TCSS)</strong>, 2025.
+#    pdf: https://arxiv.org/pdf/2002.10211.pdf
+    notes:
+    image: ./assets/img/DisenAre.png
 
   - title: "Hierarchical Intent-guided Optimization with Pluggable LLM-Driven Semantics for Session-based Recommendation"
     authors: Jinpeng Chen, Jianxiang He, Huan Li, Senzhang Wang, Yuan Cao, Kaimin Wei, <strong>Zhenye Yang</strong>, Ye Ji
