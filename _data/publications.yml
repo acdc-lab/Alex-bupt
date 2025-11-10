@@ -29,7 +29,7 @@ main:
     authors: <strong>Zhenye Yang</strong>, Jinpeng Chen, Huan Li, Xiongnan Jin, Xuanyang Li, Junwei Zhang, Hongbo Gao, Kaimin Wei, Senzhang Wang
     conference_short: CIKM
     conference: ACM International Conference on Information and Knowledge Management <strong>(CIKM)</strong>, 2025.
-#    pdf: https://arxiv.org/pdf/2002.10211.pdf
+    pdf: https://dl.acm.org/doi/10.1145/3746252.3761186
     notes: Oral Presentation
     image: ./assets/img/STEP.png
 
